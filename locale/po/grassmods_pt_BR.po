@@ -55536,10 +55536,6 @@ msgstr ""
 msgid "Creates raster maps from ASCII polygon/line/point data files."
 msgstr "Cria mapas raster a partir de arquivos de dados de polígono/linha/ponto."
 
-#: ../raster/r.in.poly/main.c:41
-msgid "Name of input file; or \"-\" to read from stdin"
-msgstr "Nome do arquivo de entrada; ou \"-\" para ler da stdin"
-
 #: ../raster/r.in.poly/main.c:60
 msgid "Integer representing NULL value data cell"
 msgstr ""
